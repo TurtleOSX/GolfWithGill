@@ -1,5 +1,7 @@
 # GolfWithGill
  CS370 Final - Daniel Blackwell, Sam Tyler, Jacob Jaffe
+ 
+ We encountered errors when downloading the project through a .zip, so please clone the repository when downloading the project.
 
 To run the project, first download and unzip the project into a folder of your choice. double-click on the file ~/GolfWithGill/GolfWithGill.uproject
 
